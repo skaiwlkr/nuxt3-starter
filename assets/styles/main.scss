@@ -1,3 +1,8 @@
+// Tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +19,3 @@ body {
     color: $pure-black;
     background-color: $pure-white;
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
