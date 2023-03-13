@@ -1,8 +1,12 @@
 # Nuxt 3 Starter
 
-## Uses
-- TailwindCSS
-- SCSS
+## Features
+- [x] TailwindCSS
+- [x] SCSS
+
+## ToDo
+- [] Basic SEO
+- [] Contentful (Playground)
 
 ## Build Setup
 
