@@ -5,6 +5,8 @@
 - [x] SCSS
 
 ## ToDo
+- [ ] Basic templates
+- [ ] Page transitions
 - [ ] Basic SEO
 - [ ] Contentful (Playground)
 
