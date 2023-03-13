@@ -5,8 +5,8 @@
 - [x] SCSS
 
 ## ToDo
-- [] Basic SEO
-- [] Contentful (Playground)
+- [ ] Basic SEO
+- [ ] Contentful (Playground)
 
 ## Build Setup
 
