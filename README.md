@@ -9,6 +9,7 @@
 - [ ] Page transitions
 - [ ] Basic SEO
 - [ ] Contentful (Playground)
+- [ ] i18n
 
 ## Build Setup
 
